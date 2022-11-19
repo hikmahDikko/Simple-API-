@@ -1,0 +1,26 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "description": "Learning something new",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hikmahDikko/Simple-API-.git"
+  },
+  "keywords": [],
+  "author": "Hikmah Dikko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hikmahDikko/Simple-API-/issues"
+  },
+  "homepage": "https://github.com/hikmahDikko/Simple-API-#readme",
+  "dependencies": {
+    "slugify": "^1.6.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
